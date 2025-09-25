@@ -14,9 +14,6 @@
    - Check for app updates in the [App Store](https://apps.apple.com) or [Google Play](https://play.google.com).  
 
 ## ❓ FAQs  
-**Q: How do I delete my account?**  
-A: Email us with the subject "Account Deletion Request."  
-
 **Q: Is my data secure?**  
 A: Yes! Read our [Privacy Policy](#) for details.  
 
