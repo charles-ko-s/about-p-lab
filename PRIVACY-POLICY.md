@@ -50,7 +50,6 @@ We may also collect information that Your browser sends whenever You visit our S
 #### Information Collected while Using the Application
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
-- Information regarding your location
 - Pictures and other information from your Device's camera and photo library
 
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
@@ -93,4 +92,8 @@ The Company will take all steps reasonably necessary to ensure that Your data is
 ### Delete Your Personal Data
 You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
 
-Our Service may give You the ability to delete certain information about You
+Our Service may give You the ability to delete certain information about You from within the Service, including the option to delete Your Account and associated data. You may also reset Your password through the Service.
+
+You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+
+Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
